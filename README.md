@@ -4,7 +4,7 @@ Official landing page for Nebras Business Solutions (NBS). Built with Next.js 13
 
 Clone the repository:
 git clone (The repo link)
-cd nbs-landing-page
+cd Main-Site
 
 Install dependencies:
 npm install
