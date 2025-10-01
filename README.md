@@ -14,7 +14,7 @@ npm run dev
 
 Your app will be running at http://localhost:3000.
 
-Templete used:
+Template used:
 - [🔌 Documentation](https://nextjstemplates.com/docs)
 
 
